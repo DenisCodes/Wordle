@@ -18,4 +18,4 @@ This script lets you play a Wordle-style game using random words from a `words.t
 
 ## Running the Program  
 ```bash
-python script.py
+python wordle.py
